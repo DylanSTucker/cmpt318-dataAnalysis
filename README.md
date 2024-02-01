@@ -28,3 +28,6 @@ pip install numpy
 pip install seaborn
 
 pip install sklearn
+
+The finished project can be found on the 'results' branch. It is recommended that after pulling the project the following command is used inside the projects root directory: 
+'git checkout results'
